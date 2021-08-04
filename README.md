@@ -2,7 +2,7 @@
 
 Here are some of my recent projects:
 
-- [Hogar - Fast-food menu 🍔](www.hogar.rs)
-- [Betomeng - Portfolio 🎧](www.betomeng.com)
-- [Milan Petkovic - Portfolio 🎹](www.milanpetkovic.com)
-- [Attorney - Mediation 👩‍💼](www.mediatorserbia.com)
+- [Hogar - Fast-food menu 🍔](http://www.hogar.rs)
+- [Betomeng - Portfolio 🎧](http://www.betomeng.com)
+- [Milan Petkovic - Portfolio 🎹](http://www.milanpetkovic.com)
+- [Attorney - Mediation 👩‍💼](http://www.mediatorserbia.com)
